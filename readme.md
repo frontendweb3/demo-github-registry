@@ -1,1 +1,1 @@
-Create a demo package for testing with github repo
+Create a demo package for testing with github repo and github action workflow
