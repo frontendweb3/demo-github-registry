@@ -1,0 +1,22 @@
+{
+  "name": "demo-github-registry",
+  "version": "1.0.0",
+  "description": "demo npm package to publish on github registry",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frontendweb3/demo-github-registry.git"
+  },
+  "keywords": [
+    "demo"
+  ],
+  "author": "Rajdeep singh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/frontendweb3/demo-github-registry/issues"
+  },
+  "homepage": "https://github.com/frontendweb3/demo-github-registry#readme"
+}
